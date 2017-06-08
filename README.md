@@ -23,8 +23,16 @@ list of application to port with Qt
 - Description : A genom browser like IGV
 - Status : **In Progress**
 - Version : -
-- comments : Huge project
+- comments : Huge project. See Alamut Visual
 
+## Pirus 
+- Description : A client / server application to Run Docker pipeline
+- Status : ** Pending **
+- Version : -
+- comments : see regovar project
 
-
-
+## CuteVariant
+- Description : a variant filter based on sqlite
+- Status : **In progress** 
+- Version : - 
+- comments : Clone variantTools command line
