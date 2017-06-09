@@ -36,3 +36,9 @@ list of application to port with Qt
 - Status : **In progress** 
 - Version : - 
 - comments : Clone variantTools command line
+
+## Circos editor
+- Description : draw circos plot
+- Status : **planing** 
+- Version : - 
+- comments : See the webiste (online editor)
