@@ -42,3 +42,10 @@ list of application to port with Qt
 - Status : **planing** 
 - Version : - 
 - comments : See the webiste (online editor) : https://anvi-server.org/merenlab/tara_hbds
+
+## CuteFasta
+- Fasta editor
+- Status : **planing** 
+- Version : - 
+- comments : translate, reverse, seq name tree , view color, view by group of nuc ..;
+
